@@ -32,10 +32,6 @@ This program demonstrates merging multiple 1D integer vectors (stored inside a 2
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/merge-sort-2d-vectors.git
-   cd merge-sort-2d-vectors
-   ```
 2. Compile the program:
 
    ```bash
